@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BadgeClass.cs" />
     <Compile Include="EventClass.cs" />
+    <Compile Include="PackageOrder.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
